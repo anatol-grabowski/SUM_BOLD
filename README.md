@@ -1,6 +1,6 @@
 # SUM_BOLD
 
-Sum only values in cells with bold style.
+An addon for google sheets that allows to sum only values in cells with bold style.
 
 Note that since change of style doesn't trigger recalculate in sheets the result will be updated only when one of the values is edited.
 
